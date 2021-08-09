@@ -11,10 +11,6 @@ verifier:
 
 platforms:
   - name: ubuntu
-  - name: centos
-    driver_config:
-      image: centos:7
-      platform: centos
 
 transport:
   name: docker
